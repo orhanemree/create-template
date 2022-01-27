@@ -1,5 +1,5 @@
 # 🏗 `@orhanemree/create-template`
-Beginner templates for my projects.
+Starter templates for my projects.
 
 ## 📣 Templates
 * Vue.js + TailwindCSS (with Vite)

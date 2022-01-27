@@ -1,7 +1,7 @@
 {
   "name": "@orhanemree/create-template",
-  "version": "1.0.2",
-  "description": "Beginner templates for my projects.",
+  "version": "1.0.3",
+  "description": "Starter templates for my projects.",
   "main": "src/index.js",
   "bin": "bin/create-template",
   "publishConfig": {

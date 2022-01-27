@@ -1,5 +1,5 @@
 # Vue + Tailwind
-Beginner template with Vite.js
+Starter template with Vite.js
 
 ```bash
 # install dependencies
