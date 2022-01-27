@@ -1,0 +1,33 @@
+{
+  "name": "@orhanemree/create-template",
+  "version": "1.0.1",
+  "description": "Beginner templates for my projects.",
+  "main": "src/index.js",
+  "bin": "bin/create-template",
+  "publishConfig": {
+    "access": "public"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cli",
+    "create-template",
+    "vue",
+    "tailwind"
+  ],
+  "author": "orhanemree",
+  "license": "MIT",
+  "dependencies": {
+    "arg": "^4.1.0",
+    "chalk": "^2.4.2",
+    "edit-json-file": "^1.7.0",
+    "esm": "^3.2.18",
+    "inquirer": "^6.2.2",
+    "ncp": "^2.0.0"
+  },
+  "files": [
+    "bin/",
+    "templates/"
+  ]
+}
