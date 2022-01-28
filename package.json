@@ -1,6 +1,6 @@
 {
   "name": "@orhanemree/create-template",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Starter templates for my projects.",
   "main": "src/index.js",
   "bin": "bin/create-template",
@@ -28,6 +28,7 @@
   },
   "files": [
     "bin/",
-    "templates/"
+    "templates/",
+    "src/"
   ]
 }

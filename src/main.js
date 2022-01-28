@@ -20,7 +20,7 @@ export async function createProject(options) {
     targetDirectory: options.targetDirectory || process.cwd(),
   };
 
-  const templateDir = path.join(__dirname, "/templates/", options.template.toLowerCase());
+  const templateDir = path.join(__dirname, "..", "/templates/", options.template.toLowerCase());
   options.templateDirectory = templateDir;
   const pkgPath = path.join(templateDir, "/package.json");
   const pkg = editJsonFile(pkgPath);
