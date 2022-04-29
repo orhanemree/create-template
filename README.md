@@ -3,6 +3,7 @@ Starter templates for my projects.
 
 ## 📣 Templates
 * Vue.js + TailwindCSS (with Vite)
+* Vue.js + TailwindCSS + Three.js (with Vite)
 * More templates will be added soon.
 
 ## 🔎 Installation & Usage
