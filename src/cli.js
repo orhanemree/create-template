@@ -41,7 +41,7 @@ async function promptForMissingOptions(options) {
       type: 'list',
       name: 'template',
       message: 'Choose which project template to use',
-      choices: ['vue-tailwind'],
+      choices: ['vue-tailwind', "vue-tailwind-three"],
       default: defaultTemplate,
     });
   }
